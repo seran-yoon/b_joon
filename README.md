@@ -1,2 +1,2 @@
-# b_joon
+# Algorithm study
 Baekjoon Online judge Study
