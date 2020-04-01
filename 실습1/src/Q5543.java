@@ -25,8 +25,6 @@ public class Q5543 {
 					drink = menu[i];
 				}
 			}
-			
-			System.out.println("i: " + i + " burger: " + burger + " drink: " + drink);
 		}
 		
 		result = (burger + drink) - 50;
